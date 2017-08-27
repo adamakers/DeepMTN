@@ -1,0 +1,1 @@
+console.log("hello world");var testVar=0,item=5,name="adam";console.log("This is a test"+name);var person={go:"broncos",stepUp:13};

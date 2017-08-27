@@ -18,5 +18,11 @@
   "homepage": "https://github.com/adamakers/DeepMTN#readme",
   "dependencies": {
     "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-uglify": "^3.0.0",
+    "pump": "^1.0.2"
   }
 }
